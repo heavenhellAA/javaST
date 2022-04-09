@@ -17,6 +17,9 @@ public class Derived extends Base {
         System.out.println("Derived block 子类-对象2");
     }
 
+    {
+        System.out.println("Derived block 子类-对象3");
+    }
     public Derived() {
         System.out.println("Derived constructor 子类-构造对象");
     }
