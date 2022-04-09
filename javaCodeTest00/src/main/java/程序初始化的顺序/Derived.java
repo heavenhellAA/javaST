@@ -20,9 +20,7 @@ public class Derived extends Base {
     public Derived() {
         System.out.println("Derived constructor 子类-构造对象");
     }
-    public Derived() {
-        System.out.println("Derived constructor 子类-构造对象2");
-    }
+
     //    程序入口
     public static void main(String[] args) {
         new Derived();
