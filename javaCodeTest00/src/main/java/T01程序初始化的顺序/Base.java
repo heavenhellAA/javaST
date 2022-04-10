@@ -1,4 +1,4 @@
-package 程序初始化的顺序;
+package T01程序初始化的顺序;
 
 public class Base {
     static {

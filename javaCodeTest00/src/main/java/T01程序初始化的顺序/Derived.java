@@ -1,4 +1,4 @@
-package 程序初始化的顺序;
+package T01程序初始化的顺序;
 /**
  * Derived 衍生类 子类
  * Base 基础类 父类
